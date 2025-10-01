@@ -5,3 +5,5 @@ Equipe de développement
 GIRARD Jérémy
 
 DUBOC Antoine
+
+COLAS Johan
