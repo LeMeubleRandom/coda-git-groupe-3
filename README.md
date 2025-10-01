@@ -2,5 +2,6 @@ Guide de Survie Etudiant-Orléans
 
 Equipe de développement
 
-GIRARD Jérémy
-COLAS Johan
+GIRARD Jérémy\n
+COLAS Johan\n
+DUBOC Antoine\n
