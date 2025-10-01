@@ -1,26 +1,28 @@
-# Résidences étudiantes
+Résidences étudiantes à Orléans
+Nom de la résidence	Localisation / adresse	Tarif estimé / loyer	Particularités
+Résidence CROUS Les Châtaigniers	3 rue de Vendôme, campus de La Source	à partir d’environ 250 €/mois pour chambre 9 m² 
+residenceetudiante.fr
+	Proche des UFR (sciences, droit, IUT, Polytech’), services comme laverie & WiFi inclus 
+residenceetudiante.fr
 
-## 1. Résidence Universitaire Descartes
-- **Localisation** : 15 rue Descartes, 75005 Paris  
-- **Tarifs** : Chambre simple à partir de 350 €/mois  
-- **Avantages** : Proche de la Sorbonne et du Quartier Latin  
+Résidence CROUS Les Roses	3 rue Charles de Coulomb	chambres à ~ 272 €/mois, studios ~ 430-460 €/mois 
+residenceetudiante.fr
+	Proche du tramway et du campus, beaucoup de chambres disponibles 
+residenceetudiante.fr
 
-## 2. Résidence Cité Internationale Universitaire
-- **Localisation** : Boulevard Jourdan, 75014 Paris  
-- **Tarifs** : Studios à partir de 450 €/mois  
-- **Avantages** : Campus international, espaces verts, activités culturelles  
+Résidence Odalys Saint-Jean	26 rue du Faubourg Saint-Jean, Orléans	studios à partir de ~ 438 €/mois CC 
+residenceetudiante.fr
+	Résidence privée, logements neufs ou rénovés, meublés, Wifi inclus, services de confort 
+residenceetudiante.fr
 
-## 3. Résidence CROUS Montsouris
-- **Localisation** : 75 boulevard Jourdan, 75014 Paris  
-- **Tarifs** : Chambre de 9 m² à partir de 250 €/mois  
-- **Avantages** : Logement étudiant subventionné, accès rapide aux transports  
+Résidence Twenty Campus Orléans	1 Place de l’Europe, 45100 Orléans	~ 450 €/mois pour un studio 
+Location Étudiant
++1
+	127 studios meublés, bien équipés (kitchenette, frigo/micro) ; prestations “étudiant” incluses 
+residenceetudiante.fr
++1
 
-## 4. Résidence Studélites Le Capitole
-- **Localisation** : 20 avenue de l’Université, 31000 Toulouse  
-- **Tarifs** : Studio de 18 m² à partir de 500 €/mois  
-- **Avantages** : Meublé, internet inclus, proche du centre-ville  
-
-## 5. Résidence Cardinal Campus
-- **Localisation** : 45 rue Garibaldi, 69007 Lyon  
-- **Tarifs** : Studio à partir de 470 €/mois  
-- **Avantages** : Espaces communs, salle de sport, proche universités
+Stud’Madeleine	Orléans, proche du campus (quartier Madeleine)	à partir d’environ 420-500 €/mois pour studio 
+residenceetudiante.fr
++1
+	Résidence privée, modernes, meublés, bon standing, proche des infrastructures universitaires
