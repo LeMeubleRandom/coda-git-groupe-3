@@ -2,10 +2,10 @@ Guide de Survie Etudiant-Orléans
 
 Equipe de développement
 
-GIRARD Jérémy
+GIRARD Jérémy Développeur du module Logement
 
-COLAS Johan
+COLAS Johan Développeur du module Restauration
 
-DUBOC Antoine
+DUBOC Antoine Développeur du module Transport
 
-NADER Ayoub
+NADER Ayoub Développeur du module Études
